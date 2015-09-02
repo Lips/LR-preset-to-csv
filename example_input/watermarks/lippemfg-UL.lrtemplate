@@ -1,0 +1,33 @@
+s = {
+	id = "10FFD476-C500-44CF-8244-5187CB520554",
+	internalName = "lippemfg-UL",
+	title = "lippemfg-UL",
+	type = "WatermarkingPreset",
+	value = {
+		items = {
+			{
+				anchor = "topleft",
+				horizontalPadding = 0.02,
+				kind = "text",
+				opacity = 0.40952380952381,
+				orientation = "AB",
+				sizeKind = "relative",
+				sizeRelativeAmount = 0.12572815533981,
+				text = "lippemfg",
+				textColorBlue = 1,
+				textColorGreen = 1,
+				textColorRed = 1,
+				textFontName = "Verdana",
+				textHorizontalAlignment = "left",
+				textShadowAngle = 270,
+				textShadowEnabled = true,
+				textShadowOffset = 0.1,
+				textShadowOpacity = 0.47619047619048,
+				textShadowRadius = 0.2,
+				textVerticalAlignment = "top",
+				verticalPadding = 0,
+			},
+		},
+	},
+	version = 0,
+}

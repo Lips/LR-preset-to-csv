@@ -1,0 +1,33 @@
+s = {
+	id = "8884890B-FF51-4A70-B1CA-540AC8B948F3",
+	internalName = "PU-test",
+	title = "PU-test",
+	type = "WatermarkingPreset",
+	value = {
+		items = {
+			{
+				anchor = "bottom",
+				horizontalPadding = 0.02,
+				kind = "text",
+				opacity = 0.6,
+				orientation = "AB",
+				sizeKind = "fit",
+				sizeRelativeAmount = 0.23417590859092,
+				text = "lippemfg.org - facebook.com/pizzaunderground‎",
+				textColorBlue = 1,
+				textColorGreen = 1,
+				textColorRed = 1,
+				textFontName = "Verdana",
+				textHorizontalAlignment = "left",
+				textShadowAngle = 270,
+				textShadowEnabled = true,
+				textShadowOffset = 0.1,
+				textShadowOpacity = 0.47619047619048,
+				textShadowRadius = 0.2,
+				textVerticalAlignment = "top",
+				verticalPadding = 0,
+			},
+		},
+	},
+	version = 0,
+}

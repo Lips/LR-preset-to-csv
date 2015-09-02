@@ -1,0 +1,31 @@
+s = {
+	deflated = {
+		{
+			{
+				value = "date_YY",
+			},
+			{
+				value = "date_MM",
+			},
+			{
+				value = "date_DD",
+			},
+			"_",
+			{
+				value = "custom_token",
+			},
+			"_",
+			{
+				value = "naming_sequenceNumber_4Digits",
+			},
+			name = "YYMMDD_***_####",
+			presetType = "Naming",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	internalName = "YYMMDD_***_####",
+	title = "YYMMDD_***_####",
+	type = "Naming_Tokens",
+	version = 0,
+}

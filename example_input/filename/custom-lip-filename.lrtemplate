@@ -1,0 +1,23 @@
+s = {
+	deflated = {
+		{
+			{
+				value = "custom_token",
+			},
+			"LIP_",
+			{
+				value = "image_name",
+			},
+			"-",
+			name = "custom-lip-filename",
+			presetType = "Naming",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	id = "AC7427F0-7CA6-4E3B-915D-22C82BC8FC10",
+	internalName = "custom-lip-filename",
+	title = "custom-lip-filename",
+	type = "Naming_Tokens",
+	version = 0,
+}

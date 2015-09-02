@@ -1,0 +1,33 @@
+s = {
+	id = "0EBADAB8-FEC6-4EC3-B11F-14ED89B03B99",
+	internalName = "L I P P E M F G-DIN-LR-20p",
+	title = "L I P P E M F G-DIN-LR-20p",
+	type = "WatermarkingPreset",
+	value = {
+		items = {
+			{
+				anchor = "bottomright",
+				horizontalPadding = 0.02,
+				kind = "text",
+				opacity = 0.2,
+				orientation = "AB",
+				sizeKind = "relative",
+				sizeRelativeAmount = 0.15476066098858,
+				text = "L I P P E M F G",
+				textColorBlue = 1,
+				textColorGreen = 1,
+				textColorRed = 1,
+				textFontName = "DIN 1451 Std",
+				textHorizontalAlignment = "left",
+				textShadowAngle = 270,
+				textShadowEnabled = true,
+				textShadowOffset = 0.1,
+				textShadowOpacity = 0.47619047619048,
+				textShadowRadius = 0.2,
+				textVerticalAlignment = "top",
+				verticalPadding = 0,
+			},
+		},
+	},
+	version = 0,
+}

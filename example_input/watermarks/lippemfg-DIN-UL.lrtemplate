@@ -1,0 +1,33 @@
+s = {
+	id = "F33D7366-5C9D-4BA3-85E8-47F22E6792AF",
+	internalName = "lippemfg-DIN-UL",
+	title = "lippemfg-DIN-UL",
+	type = "WatermarkingPreset",
+	value = {
+		items = {
+			{
+				anchor = "topleft",
+				horizontalPadding = 0.02,
+				kind = "text",
+				opacity = 0.40952380952381,
+				orientation = "AB",
+				sizeKind = "relative",
+				sizeRelativeAmount = 0.12572815533981,
+				text = "lippemfg",
+				textColorBlue = 1,
+				textColorGreen = 1,
+				textColorRed = 1,
+				textFontName = "DIN 1451 Std",
+				textHorizontalAlignment = "left",
+				textShadowAngle = 270,
+				textShadowEnabled = true,
+				textShadowOffset = 0.1,
+				textShadowOpacity = 0.47619047619048,
+				textShadowRadius = 0.2,
+				textVerticalAlignment = "top",
+				verticalPadding = 0,
+			},
+		},
+	},
+	version = 0,
+}

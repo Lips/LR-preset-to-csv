@@ -1,0 +1,23 @@
+s = {
+	deflated = {
+		{
+			"LIP_",
+			{
+				value = "image_name",
+			},
+			"-",
+			{
+				value = "naming_sequenceNumber_1Digit",
+			},
+			name = "LIP-filename-sequence",
+			presetType = "Naming",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	id = "38A60301-5181-4CF2-B0A4-5F4C69ED93AD",
+	internalName = "LIP-filename-sequence",
+	title = "LIP-filename-sequence",
+	type = "Naming_Tokens",
+	version = 0,
+}

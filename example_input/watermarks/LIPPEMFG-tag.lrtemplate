@@ -1,0 +1,33 @@
+s = {
+	id = "84DE1F98-447A-4B35-8413-9CEBBE36C3B6",
+	internalName = "LIPPEMFG-tag",
+	title = "LIPPEMFG-tag",
+	type = "WatermarkingPreset",
+	value = {
+		items = {
+			{
+				anchor = "right",
+				horizontalPadding = -0.028,
+				kind = "text",
+				opacity = 0.5,
+				orientation = "BC",
+				sizeKind = "relative",
+				sizeRelativeAmount = 0.15,
+				text = "LIPPEMFG",
+				textColorBlue = 0.89140271493213,
+				textColorGreen = 0.89140271493213,
+				textColorRed = 0.89140271493213,
+				textFontName = "DIN 1451 Std",
+				textHorizontalAlignment = "left",
+				textShadowAngle = 162.85714285714,
+				textShadowEnabled = true,
+				textShadowOffset = 0.05,
+				textShadowOpacity = 0.5,
+				textShadowRadius = 0.11428571428571,
+				textVerticalAlignment = "top",
+				verticalPadding = 0,
+			},
+		},
+	},
+	version = 0,
+}

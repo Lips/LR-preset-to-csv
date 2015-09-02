@@ -1,0 +1,37 @@
+s = {
+	deflated = {
+		{
+			{
+				value = "date_YY",
+			},
+			{
+				value = "date_MM",
+			},
+			{
+				value = "date_DD",
+			},
+			"_",
+			{
+				value = "custom_token",
+			},
+			"_",
+			{
+				value = "naming_sequenceNumber_4Digits",
+			},
+			"(",
+			{
+				value = "image_originalName",
+			},
+			")",
+			name = "YYMMDD_***_####(origname)",
+			presetType = "Naming",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	id = "59893A91-704D-498D-891E-380857D0F33C",
+	internalName = "YYMMDD_***_####(origname)",
+	title = "YYMMDD_***_####(origname)",
+	type = "Naming_Tokens",
+	version = 0,
+}
